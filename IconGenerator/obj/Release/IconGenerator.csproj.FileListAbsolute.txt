@@ -1,0 +1,13 @@
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\Interop.CorelDRAW.dll
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\Interop.VGCore.dll
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.csproj.ResolveComReference.cache
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\bin\Release\IconGenerator.exe
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\bin\Release\IconGenerator.pdb
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\bin\Release\Interop.CorelDRAW.dll
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\bin\Release\Interop.VGCore.dll
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.csprojResolveAssemblyReference.cache
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.Form1.resources
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.Properties.Resources.resources
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.csproj.GenerateResource.Cache
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.exe
+C:\MyProjectsCSharp\IconGenerator\IconGenerator\IconGenerator\obj\Release\IconGenerator.pdb
