@@ -4,4 +4,4 @@ pequeno programa para exportar curvas do coreldraw e gerar icones svg para cada 
 
 
 <br>
-Requer CoreDraw x5 instalado
+Requer CorelDraw x5 instalado
